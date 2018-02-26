@@ -1,6 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/SparkAssignment2/src/main/scala/edu/knoldus/MainApplication.scala:51:37: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : org.apache.spark.rdd.RDD[(Int, edu.knoldus.Sales)][0m
-[0m[[0m[31merror[0m] [0m[0m required: org.apache.spark.rdd.RDD[(String, ?)][0m
-[0m[[0m[31merror[0m] [0m[0m  val innerJoin = customerData join salesData[0m
-[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
